@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AirbusH145
+- 👀 I’m interested in scripting, administration and support.
+- 🌱 I’m currently learning C# and Lua.
+- 💞️ I’m looking to collaborate on any fun projects where I can learn new skills.
+- 📫 Reach me > AirbusH145#3256
