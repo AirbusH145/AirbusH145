@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AirbusH145
-- 👀 I’m interested in scripting, administration and support.
+- 👀 I’m interested in scripting, administration, and support.
 - 🌱 I’m currently learning C# and Lua.
 - 💞️ I’m looking to collaborate on any fun projects where I can learn new skills.
+- I'd love any advice you have for me, I'm willing to learn.
 - 📫 Reach me > AirbusH145#3256
